@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+
+.main1 {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.main2 {}
+
+.conclusion {}
+
+p {
+    border-style: solid;
+    padding: 30px;
+    color: red;
+    margin: 30px;
+
+
+}
+
+.header-child {
+    background-repeat: no-repeat;
+}
+
+
+img {
+    width: 30%;
+    padding: 5px;
+}
